@@ -1,0 +1,9 @@
+.title{
+    text-align: center;
+    color: purple;
+    font-weight: bold;
+}
+.bg-color{
+    background: rgb(238,203,237);
+    background: linear-gradient(90deg, rgba(238,203,237,1) 0%, rgba(174,210,250,1) 35%, rgba(147,147,247,1) 59%, rgba(242,145,211,1) 100%);
+}
